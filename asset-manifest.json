@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shibka/HomeWorkAuto.git/static/css/main.06229988.css",
+    "main.js": "/Shibka/HomeWorkAuto.git/static/js/main.c0001630.js",
+    "static/js/787.66cb4309.chunk.js": "/Shibka/HomeWorkAuto.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Shibka/HomeWorkAuto.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Shibka/HomeWorkAuto.git/index.html",
+    "main.06229988.css.map": "/Shibka/HomeWorkAuto.git/static/css/main.06229988.css.map",
+    "main.c0001630.js.map": "/Shibka/HomeWorkAuto.git/static/js/main.c0001630.js.map",
+    "787.66cb4309.chunk.js.map": "/Shibka/HomeWorkAuto.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06229988.css",
+    "static/js/main.c0001630.js"
+  ]
+}
