@@ -2,7 +2,7 @@ import React from 'react'
 import { AffairType } from '../../HW2'
 import s from './Affair.module.css'
 import s2 from '../Affairs.module.css'
-import affairs from "../Affairs";
+
 
 type AffairPropsType = {
     // key не нужно типизировать
@@ -23,7 +23,7 @@ function Affair(props: AffairPropsType) {
     return (
         <div
             id={'hw2-affair-' + props.affair._id}
-            className={affairClass}dd
+            className={affairClass}
         >
             <div id={'hw2-name-' + props.affair._id} className={nameClass}>
                 {props.affair.name}
