@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/HomeWorkAuto/static/css/main.18f8ca56.css",
-    "main.js": "/HomeWorkAuto/static/js/main.49d52ec2.js",
+    "main.css": "/HomeWorkAuto/static/css/main.f7c02d52.css",
+    "main.js": "/HomeWorkAuto/static/js/main.8e993c95.js",
     "static/js/787.66cb4309.chunk.js": "/HomeWorkAuto/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/HomeWorkAuto/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/HomeWorkAuto/index.html",
-    "main.18f8ca56.css.map": "/HomeWorkAuto/static/css/main.18f8ca56.css.map",
-    "main.49d52ec2.js.map": "/HomeWorkAuto/static/js/main.49d52ec2.js.map",
+    "main.f7c02d52.css.map": "/HomeWorkAuto/static/css/main.f7c02d52.css.map",
+    "main.8e993c95.js.map": "/HomeWorkAuto/static/js/main.8e993c95.js.map",
     "787.66cb4309.chunk.js.map": "/HomeWorkAuto/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18f8ca56.css",
-    "static/js/main.49d52ec2.js"
+    "static/css/main.f7c02d52.css",
+    "static/js/main.8e993c95.js"
   ]
 }
