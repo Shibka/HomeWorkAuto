@@ -5,7 +5,7 @@ type GreetingPropsType = {
     name: any // need to fix any
     setNameCallback: any // need to fix any
     addUser: any // need to fix any
-    onBlur: any // need to fix any
+    onBlur: any // need to fix anyz
     onEnter: any // need to fix any
     error: any // need to fix any
     totalUsers: any // need to fix any
